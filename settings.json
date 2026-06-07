@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lorencrafts.minefort.com",
-    "port": 25565,
+    "ip": "Lorencrafts.play.hosting",
+    "port": 21591,
     "version": "",
     "try-creative": false
   },
