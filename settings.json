@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lorencrafts.play.hosting",
-    "port": 21591,
+    "ip": "Lorencrafters.aternos.me",
+    "port": 32973,
     "version": "",
     "try-creative": false
   },
